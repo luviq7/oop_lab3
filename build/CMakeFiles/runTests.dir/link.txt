@@ -1,0 +1,1 @@
+/usr/bin/clang++ -Wall -O3 -DNDEBUG CMakeFiles/runTests.dir/src/CPolynom2.cpp.o CMakeFiles/runTests.dir/tests/tests.cpp.o -o runTests  -lpthread /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

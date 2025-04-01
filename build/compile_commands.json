@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/taras/Documents/oop_lab3/build",
+  "command": "/usr/bin/clang++  -I/home/taras/Documents/oop_lab3/src -Wall -O3 -DNDEBUG -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/src/CPolynom2.cpp.o -c /home/taras/Documents/oop_lab3/src/CPolynom2.cpp",
+  "file": "/home/taras/Documents/oop_lab3/src/CPolynom2.cpp",
+  "output": "CMakeFiles/runTests.dir/src/CPolynom2.cpp.o"
+},
+{
+  "directory": "/home/taras/Documents/oop_lab3/build",
+  "command": "/usr/bin/clang++  -I/home/taras/Documents/oop_lab3/src -Wall -O3 -DNDEBUG -std=gnu++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests/tests.cpp.o -c /home/taras/Documents/oop_lab3/tests/tests.cpp",
+  "file": "/home/taras/Documents/oop_lab3/tests/tests.cpp",
+  "output": "CMakeFiles/runTests.dir/tests/tests.cpp.o"
+}
+]
